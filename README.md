@@ -1,5 +1,5 @@
-# bootstrap_3
-Created with CodeSandbox
+# bootstrap_3 
+## Content - Typography
 
 ![image](https://user-images.githubusercontent.com/37132897/158332965-34154006-2a1d-4451-8639-2a9c2f79ef2a.png)
 
